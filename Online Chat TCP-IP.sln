@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Online Chat TCP-IP", "Online Chat TCP-IP\Online Chat TCP-IP.csproj", "{DA45B489-7314-4F06-80E8-FD0B6CCE17EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA45B489-7314-4F06-80E8-FD0B6CCE17EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA45B489-7314-4F06-80E8-FD0B6CCE17EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA45B489-7314-4F06-80E8-FD0B6CCE17EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA45B489-7314-4F06-80E8-FD0B6CCE17EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B676A67F-0A34-4533-980C-58DE834D2915}
+	EndGlobalSection
+EndGlobal
